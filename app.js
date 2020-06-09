@@ -9,7 +9,7 @@ var usersRouter = require('./routes/users');
 var app = express();
 
 app.get('/', function (req, res) {
-  res.send('Hello, World!\n');
+  res.send('Hello, World Nre version!\n');
 });
 
 app.listen(8080, function () {
