@@ -12,7 +12,7 @@ app.get('/', function (req, res) {
   res.send('Hello, World Nre version!\n');
 });
 
-app.listen(8080, function () {d
+app.listen(8080, function () {
   console.log('Example app lissasdtening on port 8080!');
 });
 
